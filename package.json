@@ -1,0 +1,16 @@
+{
+  "name": "selenium",
+  "version": "1.0.0",
+  "description": "selenium project",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "login-vizpert": "node src/index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
